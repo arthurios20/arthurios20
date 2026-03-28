@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm SharkDev, a game developer.
+I'm SharkDev, a game developer
 
 Currently learning C#
+
+I use Visual Studio Code for programming and tools like Godot or Unity for Game development
 <!--
 **arthurios20/arthurios20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
