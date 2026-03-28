@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm SharkDev, a game developer.
+
+Currently learning C#
 <!--
 **arthurios20/arthurios20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
